@@ -6,7 +6,8 @@ A modern tourism and destination discovery platform dedicated exclusively to Way
 
 🌐 Live Demo
 
-"Explore WAYFARER – Visit Website" (YOUR_LIVE_WEBSITE_URL)
+"Explore WAYFARER – Visit Website" 
+https://wayfarerwayanad.lovable.app
 
 ✨ Features
 
